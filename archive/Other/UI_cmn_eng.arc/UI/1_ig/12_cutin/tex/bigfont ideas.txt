@@ -1,0 +1,7 @@
+take that = prends ca
+yes = oui
+got it = ici
+scuse me = pas si vite (de "hang on")
+hold it = un instant
+
+Remarque - pour créer les ombres utilise rotate/zoom: pan=(0, 0.94), utilise curves pour tt mettre en blanc, puis utilise trail: dist=17 sp=1 dir=320 hq=oui fadeout=non

@@ -40,7 +40,7 @@
             "isCompressed": true,
             "path": "/archive",
             "description": "New Game/Select Adventure txt & game logos",
-            "notes": "May be unused (see file of same name in /archive/common"
+            "notes": "May be unused (see file of same name in /archive/common)"
         },
         {
             "filename": "UI_cmn_eng.arc",
@@ -57,64 +57,64 @@
             "description": "BGs, various icons & window elements, medal textures",
             "notes": "Probably no translation needed"
         },
-		{
-			"filename": "title_select_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/common",
-			"description": "Main title texture, menu thumbnails for episodes, new game/select buttons",
-			"changes": "Translated button text, added 'FR' to title, edited 1st episode thumbnail",
-			"notes": "Animated thumbnails at the start of episodes are controlled by GO or BB UI_opdemo0x_eng.arc"
-		},
-		{
-			"filename": "msg_title_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "Action text, DoD prompts & topics, character evidence names/desc., chapter names, answer choices, demo subtitles, place names, evidence details",
-			"changes": "Translated all from ep 1 into French, changed ep 1 character names",
-			"notes": "Some of this has overlap (e.g. action text) with other files but it's short enough to translate both"
-		},
-		{
-			"filename": "sce00_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "All dialogue & some evidence details from game 1 ep 1",
-			"changes": "Translated partially into FR - WIP"
-		},
-		{
-			"filename": "UI_opdemo00_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "Animated thumbnail that plays at start of g1e1",
-			"changes": "Translated thumbnail into FR",
-			"notes": "Thumbnail is in ./UI/4_menu/40_title/tex"
-		},
-		{
-			"filename": "UI_opdemo01_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "Animated thumbnail that plays at start of g1e2",
-			"notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
-		},
-		{
-			"filename": "UI_opdemo02_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "Animated thumbnail that plays at start of g1e3",
-			"notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
-		},
-		{
-			"filename": "UI_opdemo03_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "Animated thumbnail that plays at start of g1e4",
-			"notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
-		},
-		{
-			"filename": "UI_opdemo05_eng.arc",
-			"isCompressed": true,
-			"path": "/archive/GO",
-			"description": "Animated thumbnail that plays at start of g1e5",
-			"notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
-		}
+        {
+            "filename": "title_select_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/common",
+            "description": "Main title texture, menu thumbnails for episodes, new game/select buttons",
+            "changes": "Translated button text, added 'FR' to title, edited 1st episode thumbnail",
+            "notes": "Animated thumbnails at the start of episodes are controlled by GO or BB UI_opdemo0x_eng.arc"
+        },
+        {
+            "filename": "msg_title_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "Action text, DoD prompts & topics, character evidence names/desc., chapter names, answer choices, demo subtitles, place names, evidence details",
+            "changes": "Translated all from ep 1 into French, changed ep 1 character names",
+            "notes": "Some of this has overlap (e.g. action text) with other files but it's short enough to translate both"
+        },
+        {
+            "filename": "sce00_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "All dialogue & some evidence details from game 1 ep 1",
+            "changes": "Translated partially into FR - WIP"
+        },
+        {
+            "filename": "UI_opdemo00_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "Animated thumbnail that plays at start of g1e1",
+            "changes": "Translated thumbnail into FR",
+            "notes": "Thumbnail is in ./UI/4_menu/40_title/tex"
+        },
+        {
+            "filename": "UI_opdemo01_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "Animated thumbnail that plays at start of g1e2",
+            "notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
+        },
+        {
+            "filename": "UI_opdemo02_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "Animated thumbnail that plays at start of g1e3",
+            "notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
+        },
+        {
+            "filename": "UI_opdemo03_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "Animated thumbnail that plays at start of g1e4",
+            "notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
+        },
+        {
+            "filename": "UI_opdemo05_eng.arc",
+            "isCompressed": true,
+            "path": "/archive/GO",
+            "description": "Animated thumbnail that plays at start of g1e5",
+            "notes": "TODO: translate. Thumbnail is in ./UI/4_menu/40_title/tex"
+        }
     ]
 }

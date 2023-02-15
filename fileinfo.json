@@ -69,7 +69,7 @@
             "filename": "msg_title_eng.arc",
             "isCompressed": true,
             "path": "/archive/GO",
-            "description": "Action text, DoD prompts & topics, character evidence names/desc., chapter names, answer choices, demo subtitles, place names, evidence details",
+            "description": "Action text, DoD prompts & topics, character & evidence names/desc., chapter names, answer choices, demo subtitles, place names, evidence details",
             "changes": "Translated all from ep 1 into French, changed ep 1 character names",
             "notes": "Some of this has overlap (e.g. action text) with other files but it's short enough to translate both"
         },

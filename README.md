@@ -1,4 +1,8 @@
 # TGAAC-Patch-FR
+
+Malheureusement je n'ai plus le temps de continuer de travailler sur cette traduction, mais je vous recommande d'aller voir la traduction faite par l'équipe de https://aai-fr.keuf.net/.
+
+-------
 Patch français (pas encore fini) du jeu The Great Ace Attorney : Chronicles. Traduction éffectuée avec Kuriimu et Kuriimu 2 de FanTranslatorsInternational ainsi qu'un petit peu de python pour que ces programmes puissent ouvrir les fichiers .arc.
 
 **Statut actuel** : à peu près 30% du premier épisode est traduit ainsi que l'écran titre, les paramètres, les boutons et les "prends ça"/"un instant" etc.
